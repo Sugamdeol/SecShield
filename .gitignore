@@ -1,0 +1,7 @@
+build/
+*.apk
+*.dex
+*.keystore
+*.jks
+build-local.sh
+local.properties

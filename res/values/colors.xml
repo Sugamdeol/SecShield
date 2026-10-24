@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Stitch-aligned palette, light theme. White surfaces, near-black
+         text, one lime accent #70E000, hairline dividers, colour only on
+         data/status. -->
+    <color name="bg">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_sunken">#F1F5F9</color>
+    <color name="border">#E2E8F0</color>
+    <color name="shadow">#1A1A1A</color>
+
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#64748B</color>
+    <color name="text_on_accent">#0F172A</color>
+
+    <!-- The one locked accent: Stitch mockup lime. -->
+    <color name="accent">#70E000</color>
+    <color name="accent_dark">#5AAE00</color>
+    <color name="accent_soft">#ECFBD5</color>
+
+    <!-- Soft tints, used for tinted buttons and washes, never loud slabs. -->
+    <color name="flat_yellow">#FEF3C7</color>
+    <color name="flat_red">#FEE2E2</color>
+    <color name="flat_cyan">#E0F2FE</color>
+    <color name="flat_green">#DCFCE7</color>
+    <color name="flat_pink">#FCE7F3</color>
+
+    <!-- Status mapping (status only, always with a text label). -->
+    <color name="status_critical">#DC2626</color>
+    <color name="status_ok_wash">#E6F4EA</color>
+    <color name="status_high">#EA580C</color>
+    <color name="status_medium">#D97706</color>
+    <color name="status_low">#0284C7</color>
+    <color name="status_ok">#16A34A</color>
+
+    <color name="scrim">#66000000</color>
+</resources>

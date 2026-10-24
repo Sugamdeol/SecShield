@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Stitch-aligned palette, dark theme. Same system: dark neutral ground,
+         raised cards, the same lime accent kept bright enough to read on dark. -->
+    <color name="bg">#0F172A</color>
+    <color name="surface">#1E293B</color>
+    <color name="surface_sunken">#16213A</color>
+    <color name="border">#334155</color>
+    <color name="shadow">#000000</color>
+
+    <color name="text_primary">#F1F5F9</color>
+    <color name="text_secondary">#CBD5E1</color>
+    <color name="text_muted">#94A3B8</color>
+    <color name="text_on_accent">#0F172A</color>
+
+    <color name="accent">#70E000</color>
+    <color name="accent_dark">#70E000</color>
+    <color name="accent_soft">#22330F</color>
+
+    <color name="flat_yellow">#42350B</color>
+    <color name="flat_red">#3F1D1D</color>
+    <color name="flat_cyan">#0C2E3E</color>
+    <color name="flat_green">#122E1B</color>
+    <color name="flat_pink">#3D1A2E</color>
+
+    <color name="status_critical">#F87171</color>
+    <color name="status_ok_wash">#16281C</color>
+    <color name="status_high">#FB923C</color>
+    <color name="status_medium">#FBBF24</color>
+    <color name="status_low">#38BDF8</color>
+    <color name="status_ok">#4ADE80</color>
+
+    <color name="scrim">#B3000000</color>
+</resources>
